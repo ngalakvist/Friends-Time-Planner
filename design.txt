@@ -1,0 +1,8 @@
+What are my trying to solve?
+who will use the application ?
+Why will they use it ?
+What are going to be the inputs  ?
+What are going to be the outputs?
+What are we going to do with the inputs to get the outputs?
+Describe a simple workflow for the application?
+   
