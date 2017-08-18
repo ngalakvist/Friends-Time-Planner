@@ -8,4 +8,6 @@ Describe a simple workflow for the application?
   Load application
   Plan an event
   Add som friends.
+  send time frm to fiends
+  
    
